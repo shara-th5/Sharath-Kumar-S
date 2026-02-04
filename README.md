@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sharath Kumar
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Robotics+%26+AI+Enthusiast;Java+%7C+Python+%7C+ROS2;Building+Real-World+Systems)
 This is my GitHub profile README.
 ##
 🎓 BSc Cs Student | 🤖 Robotics & AI Enthusiast  
@@ -31,3 +31,12 @@ This is my GitHub profile README.
 - 🌱 Learning AI for Robotics
 - 🎯 Goal: Build autonomous systems
 - 📫 Reach me: sharathkumar72269@email.com
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+</p>
