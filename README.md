@@ -39,3 +39,5 @@ This is my GitHub profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/shara-th5/shara-th5/output/github-contribution-grid-snake.svg)
