@@ -41,3 +41,4 @@ This is my GitHub profile.
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/shara-th5/shara-th5/output/github-contribution-grid-snake.svg)
+
